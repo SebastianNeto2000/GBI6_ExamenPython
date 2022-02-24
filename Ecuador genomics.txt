@@ -112,8 +112,8 @@ SO  - Trends Cardiovasc Med. 2022 Feb 2. pii: S1050-1738(22)00015-9. doi:
 
 PMID- 35120121
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20220218
+STAT- In-Process
+LR  - 20220223
 IS  - 1553-7404 (Electronic)
 IS  - 1553-7390 (Linking)
 VI  - 18
@@ -143,7 +143,7 @@ AB  - Accurate prediction of vectors dispersal, as well as identification of
       approaches.
 FAU - Hernandez-Castro, Luis E
 AU  - Hernandez-Castro LE
-AUID- ORCID: https://orcid.org/0000-0002-2342-1655
+AUID- ORCID: 0000-0002-2342-1655
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 AD  - The Epidemiology, Economics and Risk Assessment Group, The Roslin Institute,
@@ -154,24 +154,24 @@ AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Cienc
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Jacobs, Arne
 AU  - Jacobs A
-AUID- ORCID: https://orcid.org/0000-0001-7635-5447
+AUID- ORCID: 0000-0001-7635-5447
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 AD  - Department of Natural Resources and the Environment, Cornell University, Ithaca, 
       New York, United States of America.
 FAU - Cheaib, Bachar
 AU  - Cheaib B
-AUID- ORCID: https://orcid.org/0000-0002-0325-823X
+AUID- ORCID: 0000-0002-0325-823X
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Day, Casey C
 AU  - Day CC
-AUID- ORCID: https://orcid.org/0000-0001-6096-3448
+AUID- ORCID: 0000-0001-6096-3448
 AD  - Computational Ecology Lab, School of Public and Community Health Sciences,
       University of Montana, Missoula, Montana, United States of America.
 FAU - Ocana-Mayorga, Sofia
 AU  - Ocana-Mayorga S
-AUID- ORCID: https://orcid.org/0000-0003-3861-9784
+AUID- ORCID: 0000-0003-3861-9784
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Yumiseva, Cesar A
@@ -180,39 +180,39 @@ AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Cienc
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Bacigalupo, Antonella
 AU  - Bacigalupo A
-AUID- ORCID: https://orcid.org/0000-0003-1661-8916
+AUID- ORCID: 0000-0003-1661-8916
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Andersson, Bjorn
 AU  - Andersson B
-AUID- ORCID: https://orcid.org/0000-0002-4624-0259
+AUID- ORCID: 0000-0002-4624-0259
 AD  - Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm,
       Sweden.
 FAU - Matthews, Louise
 AU  - Matthews L
-AUID- ORCID: https://orcid.org/0000-0003-4420-8367
+AUID- ORCID: 0000-0003-4420-8367
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Landguth, Erin L
 AU  - Landguth EL
-AUID- ORCID: https://orcid.org/0000-0002-7044-346X
+AUID- ORCID: 0000-0002-7044-346X
 AD  - Computational Ecology Lab, School of Public and Community Health Sciences,
       University of Montana, Missoula, Montana, United States of America.
 AD  - Center for Population Health Research, School of Public and Community Health
       Sciences, University of Montana, Missoula, Montana, United States of America.
 FAU - Costales, Jaime A
 AU  - Costales JA
-AUID- ORCID: https://orcid.org/0000-0001-9418-6640
+AUID- ORCID: 0000-0001-9418-6640
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 FAU - Llewellyn, Martin S
 AU  - Llewellyn MS
-AUID- ORCID: https://orcid.org/0000-0001-9856-1591
+AUID- ORCID: 0000-0001-9856-1591
 AD  - Institute of Biodiversity, Animal Health and Comparative Medicine, University of 
       Glasgow, Glasgow, United Kingdom.
 FAU - Grijalva, Mario J
 AU  - Grijalva MJ
-AUID- ORCID: https://orcid.org/0000-0003-1964-1425
+AUID- ORCID: 0000-0003-1964-1425
 AD  - Centro de Investigacion para la Salud en America Latina, Facultad de Ciencias
       Exactas y Naturales, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador.
 AD  - Infectious and Tropical Disease Institute, Department of Biomedical Sciences,
@@ -222,6 +222,8 @@ LA  - eng
 GR  - P20 GM130418/GM/NIGMS NIH HHS/United States
 GR  - R15 AI105749/AI/NIAID NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20220204
 PL  - United States
 TA  - PLoS Genet
