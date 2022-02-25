@@ -8,3 +8,5 @@
 * Procesador: Intel(R) Core(TM) i5-2410M CPU @ 2.3 GHz 2.3 GHz
 * Memoria instalada (RAM): 6,00 GB
 * Tipo de sistema operativo: Sistema operativo de 64 bits Windows 7 Home Premium
+## Version de Python:
+* 4.10.0
